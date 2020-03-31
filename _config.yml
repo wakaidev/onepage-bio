@@ -15,9 +15,11 @@ social:
   #    url: https://medium.com/@cgroom
   - title: twitter
     url: https://twitter.com/wakaidev
+  - title: github
+    url: https://github.com/wakaidev
 
 # Google webmaster tools
-google_verify: google-site-verification=gd1Iw9Y8K3dlE73khkHvjQ1Eoh4jsPI8nQnS-7LONZs
+google_verify: gd1Iw9Y8K3dlE73khkHvjQ1Eoh4jsPI8nQnS-7LONZs
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
